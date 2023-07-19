@@ -1,0 +1,5 @@
+{
+    "defaultCommandTimeout": 50000,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 10000
+    }
